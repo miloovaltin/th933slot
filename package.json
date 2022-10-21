@@ -1,16 +1,16 @@
 {
-"name": "th933slot",
-"theme": "th933 slot",
-"version": "9.2.5",
-"description": "th933 slot ทางเข้าเว็บไซต์คาสิโนเว็บตรง ไม่มีขั้นต่ำ รับเงินเครดิตฟรี",
-"keywords": [
-"th933 slot",
-"th933 slot เครดิตฟรี",
-"th933 slot ทางเข้า"
-],
-"repository": "https://github.com/miloovaltin/th933slot",
-"license": "MIT",
-"engines": {
-"atom": ">=1.0.0 <2.0.0"
-}
+  "name": "th933slot",
+  "theme": "th933 slot",
+  "version": "9.3.0",
+  "description": "th933 slot ทางเข้าเว็บไซต์คาสิโนเว็บตรง ไม่มีขั้นต่ำ รับเงินเครดิตฟรี",
+  "keywords": [
+    "th933 slot",
+    "th933 slot เครดิตฟรี",
+    "th933 slot ทางเข้า"
+  ],
+  "repository": "https://github.com/miloovaltin/th933slot",
+  "license": "MIT",
+  "engines": {
+    "atom": ">=1.0.0 <2.0.0"
+  }
 }
